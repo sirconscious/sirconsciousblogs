@@ -1,17 +1,6 @@
 [
-  {
-    "file": "welcome.md",
-    "title": "Welcome to my Blog",
-    "date": "2026-06-14",
-    "tags": ["general", "intro"]
-  },
-  {
-    "file": "arp-spoofing.md",
-    "title": "Understanding ARP Spoofing",
-    "date": "2026-06-14",
-    "tags": ["networking", "mitm", "fundamentals"]
-  } 
-  ,
+  
+  
    {
     "file": "OSSTMM.md",
     "title": "OSSTMM: A Scientific Approach to Penetration Testing",
@@ -46,6 +35,24 @@
     "file": "MITRE-ATT-CK.md",
     "title": "MITRE ATT&CK: The Universal Language of Adversary Behavior",
     "date": "2026-06-14",
+    "tags": ["Penetration Testing", "red teaming" , "Framework"]
+  },
+  {
+    "file": "nmap-host-discovery.md",
+    "title": "nmap host discovery",
+    "date": "2026-06-15",
+    "tags": ["Penetration Testing", "red teaming" , "Framework"]
+  },
+  {
+    "file": "nmap-port-scanning.md",
+    "title": "nmap Port Scanning",
+    "date": "2026-06-15",
+    "tags": ["Penetration Testing", "red teaming" , "Framework"]
+  },
+  {
+    "file": "nmap-Service-detection-os-scripting.md",
+    "title": "Nmap Service Detection, OS Detection & Scripting Notes",
+    "date": "2026-06-15",
     "tags": ["Penetration Testing", "red teaming" , "Framework"]
   }
 ]
