@@ -54,5 +54,11 @@
     "title": "Nmap Service Detection, OS Detection & Scripting Notes",
     "date": "2026-06-15",
     "tags": ["Penetration Testing", "red teaming" , "Framework"]
+  },
+  {
+    "file": "nikto.md",
+    "title": "Nikto Web Server Scanner Notes",
+    "date": "2026-06-16",
+    "tags": ["Penetration Testing", "red teaming" , "Framework"]
   }
 ]
